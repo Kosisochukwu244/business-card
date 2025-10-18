@@ -2,9 +2,9 @@
     margin: 20px;
 }
 .img-1{
-    width: 150px;
-    
+    width: 150px;    
 }
+
 .card{
     padding: 20px;
     display: flex;
@@ -18,14 +18,15 @@
     border-radius: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.italic{
-    
+
+.italic{    
 }
 
 .blue-border{
       
     border-radius: 10px;
 }
+
 .but-3{
    
     border: none;
@@ -35,7 +36,4 @@
     border-radius: 10px;
     font-size: medium;
     background:ghostwhite;
-  
-    
-
 }
