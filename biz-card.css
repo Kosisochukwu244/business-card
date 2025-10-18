@@ -1,0 +1,41 @@
+.body{
+    margin: 20px;
+}
+.img-1{
+    width: 150px;
+    
+}
+.card{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: 100px auto;
+    width: 400px;
+    text-align: center;
+    background: #eddcd2;
+    color: #2b2839;
+    border-bottom: 6px solid #cccccc;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.italic{
+    
+}
+
+.blue-border{
+      
+    border-radius: 10px;
+}
+.but-3{
+   
+    border: none;
+    background-color: #646971;
+    cursor: pointer;
+    transition: all0.9s ease;
+    border-radius: 10px;
+    font-size: medium;
+    background:ghostwhite;
+  
+    
+
+}
